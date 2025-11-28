@@ -9,7 +9,6 @@ cd Spaceship
 
 b. Create new branch
 git checkout -b <my-feature-branch>
-# <my-feature-branch> should be changed
 
 c. display all branch
 #local branch
