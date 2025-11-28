@@ -19,6 +19,8 @@ c. display all branch
 d. change branch
 #switch branch
 > git switch 'branchName'
+#make branch public
+> git push -u origin 'branch-name'
 
 #branch status
 > git status
